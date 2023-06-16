@@ -9,3 +9,6 @@ hs_err_pid*
 
 # Ignore Gradle build output directory
 build
+
+# .gitignore
+happyhunger.resoucres.config.properties
